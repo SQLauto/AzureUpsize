@@ -1,12 +1,12 @@
 <#
 .SYNOPSIS
    Creates an Azure Resource Group, Database Server, Storage Account, Firewall Rules and one Database
-	v
+	
 .DESCRIPTION
    Creates an Azure Resource Group, Database Server, Storage Account, Firewall Rules and one Database
       
 .EXAMPLE
-    AzureGBW.ps1
+    AzureUpsize.ps1
 	
 
 .Inputs

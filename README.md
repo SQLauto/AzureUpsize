@@ -1,6 +1,6 @@
 # AzureUpsize
 
-===Powerpoint and Powershell code for ===
+Powerpoint and Powershell code for
 
 1) Upsizing Local/on-prem Databases to Azure SQL
 a) SSMS
